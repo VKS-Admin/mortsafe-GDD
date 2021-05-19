@@ -1,3 +1,24 @@
 Mortsafe GDD
 
 This is  a GitHub document
+
+
+
+
+Level Design
+
+Jede Einheit hat eine Primäraktion (linke Maustase) und eine Sekundäraktion (rechte Maustaste).
+
+
+Einheiten
+-Urmensch (Faustkeil Schlag / Stein werfen)
+-Bogenschütze
+-Streitwagen
+-Reiter
+
+-Armbrustschütze
+
+
+-Musketier
+
+
