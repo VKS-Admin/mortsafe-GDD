@@ -1,6 +1,22 @@
 Mortsafe GDD
 
 This is  a GitHub document
+Game Design Dokument - Mortsafe
+Story:
+Das Grab eines antiken Hexers wurde vor langer Zeit mit einem mächtigen Zauber verflucht. Außerdem ist der Tote mit einem großen Schatz begraben. Der Spieler hat als Grabräuber versucht diesen zu erbeuten und wurde von dem Fluch getroffen und getötet. Nun ist er gezwungen den Schatz bis in alle Ewigkeit als Geist zu verteidigen. Im Laufe der Zeit versuchen allerdings auch andere Abenteurer ihr Glück, die der Spieler nun aufhalten muss.
+Gameplay:
+Der Spieler befindet sich zusammen mit einer großen Truhe/Schatz in einer unterirdischen Halle. Aus festgelegten Spawnpunkten (rings um die Truhe an Rand der Halle verteilt. auf der anderen Seite des Grabes dringen nun sporadisch Grabräuber/Abenteurer (auch von verschiedenen Fraktionen) in das Grab ein. Jede Fraktion ist einer Farbgebung zugeordnet, mit der auch der jeweilige Spawnpunkt im Level markiert ist. Verschiedene Fraktion werden, auch ohne das Zutun des Spielers, anfangen sich gegenseitig zu bekämpfen. So entsteht ein allgemeines Action-Getümmel. Jede Fraktion ist bestrebt die Schatzkiste zu ihrem jeweiligen Spawnpunkt zu ziehen. Dies dauert zwar, aber sobald die Kiste den Spawnpunkt erreicht, hat der Spieler verloren. 
+Niederlage:
+Wenn der Spieler verliert, wird er an das erste Level der aktiven Epoche zurückgeworfen. Es gibt mehrere Epochen, in denen sich jeweils die Grabkammer und die Gegnertypen ändern. Eine Epoche umfasst 25 Level, nach man denen man in die nächste Epoche einsteigen kann. Die durchgespielte Epoche ist nun zum wiederholten Spielen von Level 1 freigeschaltet und geht auch mit open-end über Level 25 hinaus, um Beispielsweise Währung und Erfahrungspunkte zu generieren. Dabei kommen zwar aber keine neuen Gegnertypen, aber die Anzahl und die Stärke der Gegner erhöht sich.
+Die Epochen:
+- Frühgeschichte/Steinzeit
+- Griechische - römische Antike; thrakische Barbaren (bietet erstmals verschiedene Fraktionen (2))
+- Mittelalterliche Europäer (klassische Ritter); mittelalterlicher Orient (2 Fraktionen)
+- Barockzeit (Erfindung des Schießpulvers); (bietet 2-3 Fraktionen als verschiedene Nationen)
+- 20 Jh. Zweiter Weltkrieg; Alliierte und Deutsche Truppen ( 2 Fraktionen)
+- Neuzeit (21. Jh.); europäische Forscher/Soldaten u. Nahöstliche Kämpfer (2 Fraktionen)
+- 22. Jh. Hochtechnisierte Ausgrabungsmitglieder mit futuristischer Bewaffnung (3 unterschiedliche Fraktionen); (erstmals das Auftreten von Kampf-Robotern, die nicht vom Spieler übernommen werden können)
+
 
 
 
